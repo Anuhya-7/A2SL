@@ -2,9 +2,7 @@
 
 A Django-based web application that converts English text into Indian Sign Language (ISL) animations in real time. It uses NLP techniques — tokenization, POS tagging, lemmatization, and tense detection — to process input text, then plays corresponding sign language video animations for each word or letter.
 
-## 🌐 Live Demo
 
-**🔗 https://a2sl.pythonanywhere.com**
 
 ## ✨ Highlights
 
